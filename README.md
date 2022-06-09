@@ -30,6 +30,7 @@
 - 1. Clone or download this repository to your local host.
 - 2. Create a database named : vetro.
 - 3. cd/into/your-cloned/folder
+- 4. locate the .env file in the root folder and edit it to meet your server requirements.
 - 4. run php artisan migrate
 - 5. run php artisan serve
 - 6. access your local host server to start using the site
