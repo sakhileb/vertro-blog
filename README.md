@@ -1,5 +1,5 @@
 # Vetro Assessment
-> Live demo [_here_](https://demo.blupininc.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](http://demo.blupininc.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
